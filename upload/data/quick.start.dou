@@ -1,0 +1,7 @@
+您可以关闭在线升级服务，但同时也将无法获取功能升级和安全修复|system.php?dou
+出于安全考虑，请修改后台目录名|tool.php?rec=custom_admin_path
+如果您需要开启更多功能，可以通过DouPHP+进行扩展|module.php
+安装小程序模块|module.php
+安装微信公众号模块|module.php
+获取更多模板|theme.php?rec=install
+使用DouBAK将您的网站转移至另一个服务器|http://www.douco.com/help/handbook/17.html|_blank
